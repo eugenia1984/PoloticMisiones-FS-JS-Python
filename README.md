@@ -1,41 +1,3 @@
-ENGLISH
-
-# FS with JS and Python - PoloticMisiones
-
-In **Polotic Misiones** I am studying **Full Stack Web Development** with **JavaScript** and **Python**. <br>
-I will be uploading the practical activities that I will do in the course. <br>
-El trabajo integrador es grupal, asi que lo tendré en otro repositorio
-
-## What I did 🚀
-I order it in folders by classes. As a comment I leave the given slogan in each exercise
-
-* CLASS 1: variable concept, type of variables, string methods, working with dates and times, arithmetic operations.
-
-* CLASS 2: 
-  * Data sequence: strings, lists, tuples, sets, dict. 
-  * Control and decision-making structures. Operators: unary, arithmetic, relational, logical, bitwise, assignment, membership, identity. Flow control: if, ternary operator, for, loops (break, continue, else). 
-  * Errors in Python. 
-  * Functions. 
-  * Modules.
-
-## Content 🚀
-This Project only has one master branch, it was a small project so it did not need more branches.
-
-## Stack of technologies?  🛠️
-
-**PYTHON**
-
-## Please: 🎁
-
-* Share this proyect with others 📢
-* Invite a beer 🍺 or a coffee ☕  to someone of the team. 
-* Thanks a lot 🤓.
-
----
-## Notes
-I appreciate your interest in this Project ⌨️ with ❤️ by [María Eugenia Costa](https://github.com/eugenia1984) 😊 and follow me at [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta) 
----
-
 ESPAÑOL
 
 # FS con JS y Python - PoloticMisiones
@@ -47,7 +9,16 @@ El trabajo integrador es grupal, asi que lo tendré en otro repositorio
 ## Lo que hice 🚀
 Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada ejercicio
 
-* CLASE 1: concepto de variable, tipo de variables, métodos de cadena, trabajo con fechas y horas, operaciones aritméticas.
+* CLASE 1: lenguaje Python.
+ * Concepto de Variable
+ * Variables  Numéricas
+ * Punto Flotante
+ * Numero Complejos
+ * Boolean
+ * Strings (Cadenas de Caracteres)
+ * Fechas y Horas
+ * Como averiguar los tipos de datos
+ * Algunas operaciones básicas elementales
 
 * CLASE 2: 
   * Secuencia de datos : cadenas, listas, tuplas, sets, diccionarios. 
@@ -56,23 +27,64 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
   * Funciones. 
   * Muódulos.
 
-* CLASE 3:
+* CLASE 3: 
+ * Excepciones: Qués una excepcion? , try, else, finally
+ * Programacion Orientada a Objetos: Qué es POO?, Principios de POO, Objetos, Clases, Instancias, Funcionalidades built in, Variables de Clase, Metodos con Argumento Variable, Herencia, Operadores de Sobrecarga, Logica dentro de los Metodos
 
-* CLASE 4:
+ **Documentacion oficial sobre Clases** https://docs.python.org/3/tutorial/classes.html
+ 
+ **Documentacion oficial sobre Errores/Excepciones** https://docs.python.org/3/tutorial/errors.html
 
-* CLASE 5:
+* CLASE 4: Control de Versiones con GIT
+ * Los desafíos del desarrollo de software en equipo
+ * Por que usar control de versiones
+ * Para que usar control de versiones
+ * Tipos de controles de versiones
+ * Control de versión distribuida
+ * Sistemas basados en Git
+ * Instalar Git
+ * Utilizar GitLab
+ * Conflictos con Merge
+ * Branching
+ * Forking
+ * Pull request
 
-* CLASE 6 :
+* CLASE 5: Introducción al FrontEnd
+ * Como se realiza la comunicación web
+ * Estructura de un sitio web
+ * Hypertext Markup Language
+ * HTML 5
+ * Document Object Model
+ * Layout de un sitio web
+ * Etiquetas comunes
+ * Lo que introdujo HTML5
+ * Formulario simple
+ 
+**HTML Cheatshhet** https://cursos.polotic.misiones.gob.ar/contenido_adjunto/HTML%205%20-%20Hoja%20de%20Consulta%20R__pida_hfvl7s60.png
 
-## LINKS
-https://makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg
+**HTML W3SCHOOLS** https://www.w3schools.com/html/
+
+**HTML W3SCHOOLS - FORMS** https://www.w3schools.com/html/html_forms.asp
+
+* CLASE 6 : CSS - Hojas de Estilos en Cascada
+* Aplicando estilos a nuestro codigo HTML
+* Propiedades Comunes de CSS
+* Identificando Elementos
+* Especifidad
+* Selectores de Pseudoclase
+* Selectores de Pseudoelementos
+
+**CSS3 Cheatsheet** https://makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg
+
+---
 
 ## Contenido 🚀
 Este proyecto solo tiene una sucursal maestra, era un proyecto pequeño por lo que no necesitaba más sucursales.
 
+---
 ## Stack tecnológico 🛠️
 
-**PYTHON**
+**PYTHON**, **HTML** , **CSS**
 
 ## Por favor: 🎁
 
