@@ -56,6 +56,17 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
   * Funciones. 
   * Muódulos.
 
+* CLASE 3:
+
+* CLASE 4:
+
+* CLASE 5:
+
+* CLASE 6 :
+
+## LINKS
+https://makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg
+
 ## Contenido 🚀
 Este proyecto solo tiene una sucursal maestra, era un proyecto pequeño por lo que no necesitaba más sucursales.
 
