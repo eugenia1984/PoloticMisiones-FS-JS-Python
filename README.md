@@ -9,7 +9,8 @@ El trabajo integrador es grupal, asi que lo tendré en otro repositorio
 ## Lo que hice 🚀
 Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada ejercicio
 
-* CLASE 1: lenguaje Python.
+* **CLASE 1: lenguaje Python**
+
   * Concepto de Variable
   * Variables  Numéricas
   * Punto Flotante
@@ -20,14 +21,16 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
   * Como averiguar los tipos de datos
   * Algunas operaciones básicas elementales
 
-* CLASE 2: 
+* **CLASE 2: Estructuras de Datos con Python**
+
   * Secuencia de datos : cadenas, listas, tuplas, sets, diccionarios. 
   * Estructuras de control y toma de decisiones. Operadores: unarios , aritméticos, relacionales, lógicos, bitwise, de asignación, de membresía, de identidad. Control de flujo: if, operador ternario, for, bucles (break, continue, else.
   * Errores en Python. 
   * Funciones. 
   * Muódulos.
 
-* CLASE 3: 
+* **CLASE 3: Estructuras de Control y Toma de Decisiones en Python**
+
   * Excepciones: Qués una excepcion? , try, else, finally
   * Programacion Orientada a Objetos: Qué es POO?, Principios de POO, Objetos, Clases, Instancias, Funcionalidades built in, Variables de Clase, Metodos con Argumento Variable, Herencia, Operadores de Sobrecarga, Logica dentro de los Metodos
 
@@ -35,7 +38,8 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
  
  **Documentacion oficial sobre Errores/Excepciones** https://docs.python.org/3/tutorial/errors.html
 
-* CLASE 4: Control de Versiones con GIT
+* **CLASE 4: Control de Versiones con GIT**
+
   * Los desafíos del desarrollo de software en equipo
   * Por que usar control de versiones
   * Para que usar control de versiones
@@ -49,7 +53,8 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
   * Forking
   * Pull request
 
-* CLASE 5: Introducción al FrontEnd
+* **CLASE 5: Introducción al FrontEnd**
+
   * Como se realiza la comunicación web
   * Estructura de un sitio web
   * Hypertext Markup Language
@@ -66,7 +71,8 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
 
 **HTML W3SCHOOLS - FORMS** https://www.w3schools.com/html/html_forms.asp
 
-* CLASE 6 : CSS - Hojas de Estilos en Cascada
+* **CLASE 6 : CSS - Hojas de Estilos en Cascada**
+
   * Aplicando estilos a nuestro codigo HTML
   * Propiedades Comunes de CSS
   * Identificando Elementos
