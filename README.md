@@ -84,9 +84,16 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
 
 * **CLASE 7: Diseño Responsive, Bootstrap y JavaScript**
 
-  * Diseño Responsive: viewport, Media Queries, flexbox, grid
-  
-  * Bootstrap: Qué es una librería Bootstrap? Cómo incorporarla al HTML? Cómo aplicar componentes a tu sitio web?
+### Diseño Responsive: 
+  * viewport
+  * Media Queries
+  * Flexbox
+  * Grid
+
+### Bootstrap: 
+  * Qué es una librería Bootstrap? 
+  * Cómo incorporarla al HTML? 
+  * Cómo aplicar componentes a tu sitio web?
   
   * JavaScript: 
    - ¿Que es JavaScript? Cómo agregarlo al HTML
