@@ -96,6 +96,8 @@ Como comentario les dejo el lema dado en cada ejercicio
   * Selectores de Pseudoclase
   * Selectores de Pseudoelementos
 
+#### Link:
+
 **CSS3 Cheatsheet** https://makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg
 
 ---
