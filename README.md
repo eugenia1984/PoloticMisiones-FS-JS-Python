@@ -7,7 +7,9 @@ Estaré subiendo las actividades prácticas que haré en el curso. <br>
 El trabajo integrador es grupal, asi que lo tendré en otro repositorio
 
 ## Lo que hice 🚀
-Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada ejercicio
+
+Lo ordeno en carpetas por clases. <br>
+Como comentario les dejo el lema dado en cada ejercicio
 
 * **CLASE 1: lenguaje Python**
 
@@ -21,6 +23,8 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
   * Como averiguar los tipos de datos
   * Algunas operaciones básicas elementales
 
+---
+
 * **CLASE 2: Estructuras de Datos con Python**
 
   * Secuencia de datos : cadenas, listas, tuplas, sets, diccionarios. 
@@ -29,14 +33,20 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
   * Funciones. 
   * Muódulos.
 
+---
+
 * **CLASE 3: Estructuras de Control y Toma de Decisiones en Python**
 
   * Excepciones: Qués una excepcion? , try, else, finally
   * Programacion Orientada a Objetos: Qué es POO?, Principios de POO, Objetos, Clases, Instancias, Funcionalidades built in, Variables de Clase, Metodos con Argumento Variable, Herencia, Operadores de Sobrecarga, Logica dentro de los Metodos
 
- **Documentacion oficial sobre Clases** https://docs.python.org/3/tutorial/classes.html
+#### Links:
+
+**Documentacion oficial sobre Clases** https://docs.python.org/3/tutorial/classes.html
  
- **Documentacion oficial sobre Errores/Excepciones** https://docs.python.org/3/tutorial/errors.html
+**Documentacion oficial sobre Errores/Excepciones** https://docs.python.org/3/tutorial/errors.html
+
+---
 
 * **CLASE 4: Control de Versiones con GIT**
 
@@ -53,6 +63,8 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
   * Forking
   * Pull request
 
+---
+
 * **CLASE 5: Introducción al FrontEnd**
 
   * Como se realiza la comunicación web
@@ -65,12 +77,15 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
   * Lo que introdujo HTML5
   * Formulario simple
  
-**HTML Cheatshhet** https://cursos.polotic.misiones.gob.ar/contenido_adjunto/HTML%205%20-%20Hoja%20de%20Consulta%20R__pida_hfvl7s60.png
+#### Links:
+
+**HTML Cheatsehet** https://cursos.polotic.misiones.gob.ar/contenido_adjunto/HTML%205%20-%20Hoja%20de%20Consulta%20R__pida_hfvl7s60.png
 
 **HTML W3SCHOOLS** https://www.w3schools.com/html/
 
 **HTML W3SCHOOLS - FORMS** https://www.w3schools.com/html/html_forms.asp
 
+---
 
 * **CLASE 6 : CSS - Hojas de Estilos en Cascada**
 
@@ -83,6 +98,7 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
 
 **CSS3 Cheatsheet** https://makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg
 
+---
 
 * **CLASE 7: Diseño Responsive, Bootstrap y JavaScript**
 
@@ -124,17 +140,17 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
 
 **Template literals: https://www.w3schools.com/js/js_functions.asp**
 
-
-
 ---
 
 ## Contenido 🚀
+
 Este proyecto solo tiene una sucursal maestra, era un proyecto pequeño por lo que no necesitaba más sucursales.
 
 ---
 ## Stack tecnológico 🛠️
 
-**PYTHON**, **HTML** , **CSS**
+**PYTHON**, **HTML** , **CSS**, **BOOTSTRAP**, **JAVASCRIPT**
+
 
 ## Por favor: 🎁
 
@@ -143,6 +159,9 @@ Este proyecto solo tiene una sucursal maestra, era un proyecto pequeño por lo q
 * Muchas gracias 🤓.
 
 ---
+
 ## Notas
+
 Agradezco su interés en este proyecto ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y sígueme en [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
+
 ---
