@@ -82,6 +82,27 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
 
 **CSS3 Cheatsheet** https://makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg
 
+* **CLASE 7: Diseño Responsive, Bootstrap y JavaScript**
+
+  * Diseño Responsive: viewport, Media Queries, flexbox, grid
+  * 
+  * Bootstrap: Qué es una librería Bootstrap? Cómo incorporarla al HTML? Cómo aplicar componentes a tu sitio web?
+  * 
+  * JavaScript: 
+   * ¿Que es JavaScript? Cómo agregarlo al HTML
+   * Programación Orientada a Eventos
+   * Event Listeners
+   * Funciones
+   * Variables y Constantes
+   * querySelector
+   * Manipulación del DOM
+   * Imprimir cadenas de caracteres con Template Literals
+   * Archivos Externos
+   * Interactuar con la Consola
+
+
+**Bootstrap: https://getbootstrap.com/**
+
 ---
 
 ## Contenido 🚀
