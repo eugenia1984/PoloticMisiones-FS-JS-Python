@@ -71,6 +71,7 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
 
 **HTML W3SCHOOLS - FORMS** https://www.w3schools.com/html/html_forms.asp
 
+
 * **CLASE 6 : CSS - Hojas de Estilos en Cascada**
 
   * Aplicando estilos a nuestro codigo HTML
@@ -82,33 +83,48 @@ Lo ordeno en carpetas por clases. Como comentario les dejo el lema dado en cada 
 
 **CSS3 Cheatsheet** https://makeawebsitehub.com/wp-content/uploads/2015/10/css3-mega-cheat-sheet.jpg
 
+
 * **CLASE 7: Diseño Responsive, Bootstrap y JavaScript**
 
-### Diseño Responsive: 
+#### Diseño Responsive: 
   * viewport
   * Media Queries
   * Flexbox
   * Grid
 
-### Bootstrap: 
+#### Bootstrap: 
   * Qué es una librería Bootstrap? 
   * Cómo incorporarla al HTML? 
   * Cómo aplicar componentes a tu sitio web?
   
-  * JavaScript: 
-   - ¿Que es JavaScript? Cómo agregarlo al HTML
-   - Programación Orientada a Eventos
-   - Event Listeners
-   - Funciones
-   - Variables y Constantes
-   - querySelector
-   - Manipulación del DOM
-   - Imprimir cadenas de caracteres con Template Literals
-   - Archivos Externos
-   - Interactuar con la Consola
+#### JavaScript: 
+  * ¿Que es JavaScript? 
+  * Cómo agregarlo al HTML?
+  * Programación Orientada a Eventos
+  * Event Listeners
+  * Funciones
+  * Variables y Constantes
+  * querySelector
+  * Manipulación del DOM
+  * Imprimir cadenas de caracteres con Template Literals
+  * Archivos Externos
+  * Interactuar con la Consola
 
+#### Links:
+
+**Media Queries: https://www.w3schools.com/cssref/css3_pr_mediaquery.asp**
 
 **Bootstrap: https://getbootstrap.com/**
+
+**Programación orientada a eventos: https://vsvaibhav2016.medium.com/introduction-to-event-driven-programming-28161b79c223**
+
+**Event Listener: https://www.w3schools.com/js/js_htmldom_eventlistener.asp**
+
+**Funciones: https://www.w3schools.com/js/js_functions.asp**
+
+**Template literals: https://www.w3schools.com/js/js_functions.asp**
+
+
 
 ---
 
