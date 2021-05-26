@@ -104,32 +104,11 @@ Como comentario les dejo el lema dado en cada ejercicio
 
 * **CLASE 7: Diseño Responsive, Bootstrap y JavaScript**
 
-  * Diseño Responsive: 
+  * Diseño Responsive: viewport, Media Queries, Flexbox, Grid
 
-   * viewport
-   * Media Queries
-   * Flexbox
-   * Grid
-
-  * Bootstrap: 
-
-   * Qué es una librería Bootstrap? 
-   * Cómo incorporarla al HTML? 
-   * Cómo aplicar componentes a tu sitio web?
+  * Bootstrap: Qué es una librería Bootstrap?, Cómo incorporarla al HTML?, Cómo aplicar componentes a tu sitio web?
   
-  * JavaScript: 
-
-   * ¿Que es JavaScript? 
-   * Cómo agregarlo al HTML?
-   * Programación Orientada a Eventos
-   * Event Listeners
-   * Funciones
-   * Variables y Constantes
-   * querySelector
-   * Manipulación del DOM
-   * Imprimir cadenas de caracteres con Template Literals
-   * Archivos Externos
-   * Interactuar con la Consola
+  * JavaScript: ¿Que es JavaScript?,  Cómo agregarlo al HTML?, Programación Orientada a Eventos, Event Listeners, Funciones, Variables y Constantes, querySelector, Manipulación del DOM,  Imprimir cadenas de caracteres con Template Literals, Archivos Externos, Interactuar con la Consola
 
 #### Links:
 
