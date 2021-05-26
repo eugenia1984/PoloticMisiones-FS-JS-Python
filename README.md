@@ -161,17 +161,9 @@ Como comentario les dejo el lema dado en cada ejercicio
 
   * AJAX
 
-  * Interfaces de Usuario:
-   * Concepto de SinglePage Application
-   * Scroll
+  * Interfaces de Usuario: Concepto de SinglePage Application, Scroll
   
-  * Introduccion a la librería React.js:
-   * Qué es y que no es
-   * Elementos fundamentales
-   * Components
-   * Props
-   * State
-   * JSX
+  * Introduccion a la librería React.js: Qué es y que no es, Elementos fundamentales, Components, Props, State, JSX
 
 ### Links:
 
