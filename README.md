@@ -144,9 +144,38 @@ Como comentario les dejo el lema dado en cada ejercicio
 
 ---
 
+* **CLASE 8: FrontEnd - JavaScript**
+
+#### Funciones Anónimas
+
+#### Funciones Flecha
+
+#### LocalStorage
+
+#### API
+
+#### JSON
+
+#### AJAX
+
+#### Interfaces de Usuario:
+
+  * Concepto de SinglePage Application
+  * Scroll
+  
+### Introduccion a la librería React.js
+  * Qué es y que no es
+  * Elementos fundamentales
+  * Components
+  * Props
+  * State
+  * JSX
+
+---
+
 ## Contenido 🚀
 
-Este proyecto solo tiene una sucursal maestra, era un proyecto pequeño por lo que no necesitaba más sucursales.
+Este proyecto solo tiene una carpeta por cada clase, con su respectivo contenido teoríco en PDF, ejercicios de ejemplo y actividades prácticas.
 
 ---
 ## Stack tecnológico 🛠️
