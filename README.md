@@ -170,6 +170,26 @@ Como comentario les dejo el lema dado en cada ejercicio
   * State
   * JSX
 
+### Links:
+
+**Objetos** https://www.w3schools.com/js/js_objects.asp
+
+**APIs** https://www.mulesoft.com/resources/api/what-is-an-api
+
+**JSON** https://www.w3schools.com/js/js_json_intro.asp
+
+**AJAX** https://www.w3schools.com/js/js_ajax_intro.asp
+
+**Fetch** https://javascript.info/fetch
+
+**Promise** https://web.dev/promises/
+
+**React** https://reactjs.org/
+
+**Create React App** https://reactjs.org/docs/create-a-new-react-app.html
+
+**JSX** https://reactjs.org/docs/introducing-jsx.html
+
 ---
 
 ## Contenido 🚀
