@@ -105,17 +105,20 @@ Como comentario les dejo el lema dado en cada ejercicio
 * **CLASE 7: Diseño Responsive, Bootstrap y JavaScript**
 
 #### Diseño Responsive: 
+
   * viewport
   * Media Queries
   * Flexbox
   * Grid
 
 #### Bootstrap: 
+
   * Qué es una librería Bootstrap? 
   * Cómo incorporarla al HTML? 
   * Cómo aplicar componentes a tu sitio web?
   
 #### JavaScript: 
+
   * ¿Que es JavaScript? 
   * Cómo agregarlo al HTML?
   * Programación Orientada a Eventos
@@ -146,29 +149,29 @@ Como comentario les dejo el lema dado en cada ejercicio
 
 * **CLASE 8: FrontEnd - JavaScript**
 
-#### Funciones Anónimas
+  * Funciones Anónimas
 
-#### Funciones Flecha
+  * Funciones Flecha
 
-#### LocalStorage
+  * LocalStorage
 
-#### API
+  * API
 
-#### JSON
+  * JSON
 
-#### AJAX
+  * AJAX
 
-#### Interfaces de Usuario:
-  * Concepto de SinglePage Application
-  * Scroll
+  * Interfaces de Usuario:
+   * Concepto de SinglePage Application
+   * Scroll
   
-### Introduccion a la librería React.js:
-  * Qué es y que no es
-  * Elementos fundamentales
-  * Components
-  * Props
-  * State
-  * JSX
+  * Introduccion a la librería React.js:
+   * Qué es y que no es
+   * Elementos fundamentales
+   * Components
+   * Props
+   * State
+   * JSX
 
 ### Links:
 
