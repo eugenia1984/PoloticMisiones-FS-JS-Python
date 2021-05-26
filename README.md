@@ -88,7 +88,7 @@ Como comentario les dejo el lema dado en cada ejercicio
 ---
 
 * **CLASE 6 : CSS - Hojas de Estilos en Cascada**
-
+  
   * Aplicando estilos a nuestro codigo HTML
   * Propiedades Comunes de CSS
   * Identificando Elementos
