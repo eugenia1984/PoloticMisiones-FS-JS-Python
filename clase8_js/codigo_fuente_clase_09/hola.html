@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+    <title>Hola</title>
+  </head>
+  <body>
+    <div id="app" />
+    <script type="text/babel">
+
+      class Hola extends React.Component {
+
+        render() {
+          return (
+            <h1>Hola, {this.props.name}!</h1>
+          );
+        }
+
+      }
+
+      class App extends React.Component {
+
+        render() {
+          return (
+            <div>
+              <Hola name="Harry" />
+              <Hola name="Ron" />
+              <Hola name="Hermione" />
+            </div>
+          );
+        }
+      }
+
+      ReactDOM.render(<App />, document.querySelector("#app"));
+
+    </script>
+  </body>
+</html>
