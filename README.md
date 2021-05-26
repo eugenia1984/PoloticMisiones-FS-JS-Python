@@ -104,20 +104,20 @@ Como comentario les dejo el lema dado en cada ejercicio
 
 * **CLASE 7: Diseño Responsive, Bootstrap y JavaScript**
 
-#### Diseño Responsive: 
+  * Diseño Responsive: 
 
    * viewport
    * Media Queries
    * Flexbox
    * Grid
 
-#### Bootstrap: 
+  * Bootstrap: 
 
    * Qué es una librería Bootstrap? 
    * Cómo incorporarla al HTML? 
    * Cómo aplicar componentes a tu sitio web?
   
-#### JavaScript: 
+  * JavaScript: 
 
    * ¿Que es JavaScript? 
    * Cómo agregarlo al HTML?
