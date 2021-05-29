@@ -1,0 +1,66 @@
+/*Google Font: roboto*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  align-items: center;
+  background-image: linear-gradient(236deg, #74ebd5, #acb6e5);
+  display: flex;
+  font-family: 'Roboto', sans-serif;
+  height: 100vh;
+  justify-content: center;
+  margin: 0;
+} 
+
+.calculadora {
+  border-radius: 7px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.25);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  max-width: 15em;
+  overflow: hidden;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+}
+
+.calculadora__display {
+  background-color: #222222;
+  color: #fff;
+  font-size: 1.8em;
+  padding: 0.5em 0.75em;
+  text-align: right;
+}
+
+.calculadora__botones {
+  background-color: #999;
+  display: grid;
+  grid-gap: 3px;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.calculadora__botones > button{
+  border: none;
+  font-family: inherit;
+  font-size:inherit;
+}
+
+.calculadora__botones > button:hover{
+  background-color: white;
+}
+
+.calculadora__botones>button:focus {
+  background-color: darkgray;
+}
+
+.tecla--operador {
+  background-color: rgb(235, 222, 106);
+  font-weight: 800;
+}
+
+.tecla--igual {
+  background-image: linear-gradient(to bottom, #fe886a, #ff7033);
+  grid-column: -2;
+  grid-row: 2 / span 4;
+}
