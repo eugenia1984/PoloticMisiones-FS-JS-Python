@@ -165,6 +165,36 @@ Como comentario les dejo el lema dado en cada ejercicio
 **JSX** https://reactjs.org/docs/introducing-jsx.html
 
 ---
+* **CLASE 9: FrontEnd - django**
+
+  * El protocolo HTTP
+  * HTTP Request
+  * HTTP Response
+  * Codigos de Estado
+  * Estructura de los Recursos Web (URI/URL/URN)
+  * ¿Que es el framework Django?
+  * Arquitectura
+  * Principios
+  * Instalar Django
+  * Crear un Proyecto Django
+  * Estructura del Proyecto Django
+  * Inicializar Servidor Django
+  * Crear una Aplicación Django
+  * Vistas (Views)
+  * Enrutamiento (Routes)
+  * URL parametrizadas
+  * HTML en Django
+  * Django Templates
+  * Recursos static
+  
+-Dentro de la carpeta de la clase hay: <br>
+ Una imagen con apunte de comandos <br>
+ Un **código fuente** <br>
+ El **PDF** con la teoría de la clase <br>
+
+ 
+
+---
 
 ## Contenido 🚀
 
