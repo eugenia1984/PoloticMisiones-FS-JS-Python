@@ -165,7 +165,7 @@ Como comentario les dejo el lema dado en cada ejercicio
 **JSX** https://reactjs.org/docs/introducing-jsx.html
 
 ---
-* **CLASE 9: FrontEnd - django**
+* **CLASE 9:  django**
 
   * El protocolo HTTP
   * HTTP Request
@@ -196,7 +196,7 @@ Como comentario les dejo el lema dado en cada ejercicio
 
 **Django Templates Documentacion :** https://docs.djangoproject.com/en/3.2/topics/templates/ <br>
 **Instalar Django en Entornos Virtuales :** https://www.geeksforgeeks.org/django-basics/ <br>
-** Introducción e Instalacion:** https://www.geeksforgeeks.org/django-introduction-and-installation/<br> 
+**Introducción e Instalacion:** https://www.geeksforgeeks.org/django-introduction-and-installation/<br> 
 
 ---
 
