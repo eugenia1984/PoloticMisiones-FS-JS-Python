@@ -212,7 +212,15 @@ Como comentario les dejo el lema dado en cada ejercicio
   * Shell
   * Django Admin
  
- **Anexo**
+**Anexo 1**
+ 
+  * Que es CRUD
+  * CREATE
+  * READ
+  * UPDATE
+  * DELETE
+ 
+ **Anexo 2**
  
   * Desplegando Django a Producción
   * Proveedor de Hosting
