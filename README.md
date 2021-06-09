@@ -200,6 +200,30 @@ Como comentario les dejo el lema dado en cada ejercicio
 
 ---
 
+* **CLASE 10:  django**
+
+  * Aplicando un poco de Lógica
+  * Formularios con Django
+  * Seguridad con tokens CSRF
+  * Django Forms
+  * Manejo de Sesiones
+  * Modelos en Django
+  * Migrations
+  * Shell
+  * Django Admin
+ 
+ **Anexo**
+ 
+  * Desplegando Django a Producción
+  * Proveedor de Hosting
+  * Preparaciones y Requerimientos
+  * Estructura
+  * Ejemplo de despliegue en Heroku
+
+
+
+---
+
 ## Contenido 🚀
 
 Este proyecto solo tiene una carpeta por cada clase, con su respectivo contenido teoríco en PDF, ejercicios de ejemplo y actividades prácticas.
