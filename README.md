@@ -229,10 +229,6 @@ Como comentario les dejo el lema dado en cada ejercicio
   * Ejemplo de despliegue en Heroku
 
 
-
----
-
-
 ---
 
 * **CLASE 11:  django**
@@ -291,7 +287,7 @@ Este proyecto solo tiene una carpeta por cada clase, con su respectivo contenido
 ---
 ## Stack tecnológico 🛠️
 
-**PYTHON**, **HTML** , **CSS**, **BOOTSTRAP**, **JAVASCRIPT**
+**PYTHON**, **HTML** , **CSS**, **BOOTSTRAP**, **JAVASCRIPT** , **DJANGO**
 
 
 ## Por favor: 🎁
