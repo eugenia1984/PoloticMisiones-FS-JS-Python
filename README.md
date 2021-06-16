@@ -232,6 +232,58 @@ Como comentario les dejo el lema dado en cada ejercicio
 
 ---
 
+
+---
+
+* **CLASE 11:  django**
+
+RELACIONES ENTRE MODELOS <br>
+  * Relaciones directas: ForeignKey
+  * Filter de Objects
+  * Relaciones Mucho a Muchos: ManyToManyField
+  * Exclude de Objectos en una Lista
+ 
+PERSISTENCIA <br> 
+  * Sistemas de Gestion de Bases de Datos
+  * Structured Query Language
+  * SQLite
+  * MySQL
+  * Crear una Tabla
+  * Constraints
+  * Insertar Datos en una Tabla
+  * Obtener Datos de una Tabla
+  * Funciones y otras cláusulas
+  * Claves Foráneas y Juntas
+  * Vincular MySQL con Django
+  * Seguridad con Python Decouple
+  
+AUTENTICACION <br>
+
+  * Utilizando el modelo Users
+  * Interfaz de administracion (Usuarios y Grupos)
+  * Autenticar con el sistema auth de Django
+  * Templates custom para login
+  * Permisos
+  * Crear un formulario de registro (SignUp)
+  
+ANEXO I<br> 
+  * NoSQL / MongoDB
+  
+ANEXO II <br>
+  * Testing
+  * Unit Test
+  * Django Test
+  * Client Test / Selenium
+  
+ ARCHIVOS EN CARPETA CLASE 11:
+  * Anexo 1 Mongo DB
+  * Anexo 2 Testing
+  *  Codigo Fuente Blog de Ejemplo en archivo blog.zip
+  *  Código fuente de la clase en archivo .zip
+  *  Presentación de la clase en archivo: relaciones_persistencia_autenticacion.pdf
+
+---
+
 ## Contenido 🚀
 
 Este proyecto solo tiene una carpeta por cada clase, con su respectivo contenido teoríco en PDF, ejercicios de ejemplo y actividades prácticas.
