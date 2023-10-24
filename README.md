@@ -285,6 +285,7 @@ ANEXO II <br>
 Este proyecto solo tiene una carpeta por cada clase, con su respectivo contenido teoríco en PDF, ejercicios de ejemplo y actividades prácticas.
 
 ---
+
 ## Stack tecnológico 🛠️
 
 **PYTHON**, **HTML** , **CSS**, **BOOTSTRAP**, **JAVASCRIPT** , **DJANGO**
@@ -300,6 +301,6 @@ Este proyecto solo tiene una carpeta por cada clase, con su respectivo contenido
 
 ## Notas
 
-Agradezco su interés en este proyecto ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y sígueme en [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
+Agradezco su interés en este proyecto ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y sígueme en [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
 
 ---
